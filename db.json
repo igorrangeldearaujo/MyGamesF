@@ -1,0 +1,120 @@
+{
+  "Games": [
+    {
+      "id": 1,
+      "game": "Dragon Ball Z",
+      "categoria": 1
+    },
+    {
+      "id": 2,
+      "game": "Dragon Ball Z Evolution",
+      "categoria": 1
+    },
+    {
+      "id": 3,
+      "game": "Dragon Ball GT",
+      "categoria": 2
+    },
+    {
+      "id": 4,
+      "game": "Jogo da Memória",
+      "categoria": 3
+    },
+    {
+      "id": 5,
+      "game": "Dragon Ball GT 4",
+      "categoria": "10"
+    },
+    {
+      "game": "Street Fighter II",
+      "categoria": "12",
+      "id": 6
+    },
+    {
+      "game": "Novo Game com Redirect",
+      "categoria": "12",
+      "id": 7
+    },
+    {
+      "game": "Bomberman 5",
+      "categoria": "13",
+      "id": 9
+    },
+    {
+      "game": "Bomberman 4",
+      "categoria": "13",
+      "id": 10
+    },
+    {
+      "game": "Super Mario ",
+      "categoria": "15",
+      "id": 11
+    },
+    {
+      "game": "Street Fight",
+      "categoria": "15",
+      "id": 12
+    },
+    {
+      "game": "Top Gear",
+      "categoria": "10",
+      "id": 13
+    },
+    {
+      "id": 14,
+      "game": "Pepa Pig",
+      "categoria": "14"
+    },
+    {
+      "game": "Spacer Racer",
+      "categoria": "13",
+      "id": 15
+    },
+    {
+      "game": "Super Mario Kart",
+      "categoria": "15",
+      "id": 16
+    },
+    {
+      "id": 17,
+      "game": "Dragon Ball Heroes",
+      "categoria": "16"
+    },
+    {
+      "game": "Bomberman",
+      "categoria": "14",
+      "id": 18
+    },
+    {
+      "game": "Dragon Ball Z",
+      "categoria": "12",
+      "id": 19
+    }
+  ],
+  "categorias": [
+    {
+      "id": 12,
+      "categoria": "Racer"
+    },
+    {
+      "id": 13,
+      "categoria": "Playing"
+    },
+    {
+      "categoria": "Kids",
+      "id": 14
+    },
+    {
+      "categoria": "Nostalgia",
+      "id": 15
+    },
+    {
+      "categoria": "Anime",
+      "id": 16
+    },
+    {
+      "categoria": "Game",
+      "id": 17
+    }
+  ]
+}
